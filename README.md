@@ -1,1 +1,1 @@
-# Zam-tutor
+# Zambia-ai-tutor
